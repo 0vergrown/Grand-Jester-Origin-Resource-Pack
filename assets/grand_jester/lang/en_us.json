@@ -57,5 +57,7 @@
   "power.grand_jester.overwhelming_jest.name":"Overwhelming Jest",
   "power.grand_jester.overwhelming_jest.description":"Hostile mobs have a have a small chance of becoming enraged (getting a brief Strength boost) if mocked too frequently.",
   "power.grand_jester.misstep_of_mirth.name":"Misstep of Mirth",
-  "power.grand_jester.misstep_of_mirth.description":"Occasionally, when attempting to jump, you might \"trip\" and get a brief slowness effect."
+  "power.grand_jester.misstep_of_mirth.description":"Occasionally, when attempting to jump, you might \"trip\" and get a brief slowness effect.",
+  "power.grand_jester.jesters_rejuvenation.name":"Jester's Rejuvenation",
+  "power.grand_jester.jesters_rejuvenation.description":"This is a hidden technical utility file that automatically restores and synchronizes the abilities upon death or respawn to rectify any inconsistencies or bugs with the abilities, ensuring that gameplay mechanics operate consistently and without error post-respawn."
 }
