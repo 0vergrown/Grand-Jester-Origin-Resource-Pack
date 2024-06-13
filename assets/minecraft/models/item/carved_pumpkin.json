@@ -1,0 +1,15 @@
+{
+    "parent":"minecraft:block/carved_pumpkin",
+    "ambientocclusion": true,
+    "textures":{
+       "layer0":"minecraft:block/carved_pumpkin"
+    },
+    "overrides":[
+       {
+          "predicate":{
+             "custom_model_data":775107
+          },
+          "model":"block/jester_hat/jester_hat"
+       }
+    ]
+}
